@@ -25,5 +25,3 @@ For a full walkthrough and setup guide, watch this video by **Michel Guay**:
 🔗 GitHub: [@mguay22](https://github.com/mguay22)
 
 ---
-
-## 📁 Project Structure
